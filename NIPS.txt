@@ -1,0 +1,7 @@
+Best paper award
+No-Regret Learning Dynamics for Extensive-Form Correlated Equilibirum
+Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nystrom Method
+Language Models are Few-Shot Learners
+
+Test of Time Award
+HOGWILD!: A Lock-Fee Approach to Parallelizing Stochastic Gradient Descent
